@@ -1,3 +1,5 @@
+package just_package;
+
 import com.fasterxml.jackson.databind.JsonNode;
 
 import java.util.ArrayList;
@@ -9,6 +11,7 @@ public class Stranger {
     private String planet;
     private Integer age;
     private List<String> traits;
+    private JsonNode jsonData;
 
     // Constructor
     public Stranger(JsonNode info) {
@@ -29,7 +32,7 @@ public class Stranger {
         if (info.has("planet")) {
             this.planet = info.get("planet").asText();
         } else {
-            this.planet = null; // planet este null dacă nu există
+            this.planet = null; // planet null dacă nu există
         }
 
         if (info.has("age")) {
@@ -46,6 +49,8 @@ public class Stranger {
         } else {
             this.traits = null; // traits este null dacă nu există
         }
+
+        jsonData = info;
     }
 
 
@@ -68,5 +73,21 @@ public class Stranger {
     public List<String> getTraits() {
         return traits;
     }
+
+    public JsonNode getJsonData() {
+        return jsonData;
+    }
+
+    @Override
+    public String toString() {
+        return "Lap_0_package.Stranger{" +
+                "id=" + id +
+                ", isHumanoid=" + isHumanoid +
+                ", planet='" + planet + '\'' +
+                ", age=" + age +
+                ", traits=" + traits +
+                '}';
+    }
+
 
 }

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03aee130-0006-4d41-851b-2ecea6de5872" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/just_package/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/main/java/first_package/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/just_package/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/main/java/first_package/ReadFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/just_package/SetUniverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/main/java/first_package/SetUniverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/just_package/Stranger.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/main/java/first_package/Stranger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/just_package/TraitsClassification.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/main/java/first_package/TraitsClassification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/input-test.json" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/main/resources/input-test.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/input.json" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/main/resources/input.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/hitchhiker.json" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/output/hitchhiker.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/marvel.json" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/output/marvel.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/rings.json" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/output/rings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/output/starWars.json" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/output/starWars.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jonnyy04"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jonnyy04/OOP_Laboratories.git",
+    "accountId": "8125424e-75fc-4b6c-b885-0cc72612b8ee"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2nqzq7pSxidqol5WOowsNslyqRV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Task_1.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ionvo/OneDrive/Desktop/OOP_Laboratories",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ionvo\OneDrive\Desktop\OOP_Laboratories" />
+      <recent name="C:\Users\ionvo\OneDrive\Desktop\OOP_Laboratories\LAB_0" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="first_package.Main" />
+      <module name="java-classifcation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="first_package.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.227" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.227" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03aee130-0006-4d41-851b-2ecea6de5872" name="Changes" comment="" />
+      <created>1729715584126</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729715584126</updated>
+      <workItem from="1729715585437" duration="1230000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

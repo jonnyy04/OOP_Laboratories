@@ -1,4 +1,4 @@
-package just_package;
+package first_package;
 
 import java.util.List;
 

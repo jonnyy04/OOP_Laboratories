@@ -1,4 +1,4 @@
-package just_package;
+package first_package;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -44,7 +44,7 @@ class SetUniverse {
 
     public void writeUniversesToFile() throws IOException {
         // Define the output directory for JSON files
-        String outputDir = "src/output/";
+        String outputDir = "LAB_0/src/output/";
 
         // Write each universe's individuals to their respective JSON files
         mapper.writeValue(new File(outputDir + "starWars.json"), starWars);

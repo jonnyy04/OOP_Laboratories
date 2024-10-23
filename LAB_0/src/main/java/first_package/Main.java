@@ -1,4 +1,4 @@
-package just_package;
+package first_package;
 
 import com.fasterxml.jackson.databind.JsonNode;
 

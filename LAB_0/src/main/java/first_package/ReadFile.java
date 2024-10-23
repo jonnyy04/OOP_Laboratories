@@ -1,4 +1,4 @@
-package just_package;
+package first_package;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -13,7 +13,7 @@ public class ReadFile {
     }
 
     ObjectMapper mapper = new ObjectMapper();
-    File input = new File("src/main/resources/input.json");
+    File input = new File("LAB_0/src/main/resources/input.json");
     JsonNode data = mapper.readTree(input).get("data");
 
 //    public void showData(){

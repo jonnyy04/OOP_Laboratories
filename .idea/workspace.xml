@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03aee130-0006-4d41-851b-2ecea6de5872" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/just_package/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/main/java/first_package/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/just_package/ReadFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/main/java/first_package/ReadFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/just_package/SetUniverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/main/java/first_package/SetUniverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/just_package/Stranger.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/main/java/first_package/Stranger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/just_package/TraitsClassification.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/main/java/first_package/TraitsClassification.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/input-test.json" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/main/resources/input-test.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/input.json" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/main/resources/input.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/output/hitchhiker.json" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/output/hitchhiker.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/output/marvel.json" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/output/marvel.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/output/rings.json" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/output/rings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/output/starWars.json" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_0/src/output/starWars.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_1/src/Task_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_1/src/Task_1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,45 +22,45 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "jonnyy04"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jonnyy04&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/jonnyy04/OOP_Laboratories.git",
-    "accountId": "8125424e-75fc-4b6c-b885-0cc72612b8ee"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/jonnyy04/OOP_Laboratories.git&quot;,
+    &quot;accountId&quot;: &quot;8125424e-75fc-4b6c-b885-0cc72612b8ee&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2nqzq7pSxidqol5WOowsNslyqRV" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "Application.Task_1.Main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ionvo/OneDrive/Desktop/OOP_Laboratories",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task_1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ionvo/OneDrive/Desktop/OOP_Laboratories&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ionvo\OneDrive\Desktop\OOP_Laboratories" />
@@ -120,6 +104,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729715584126</updated>
       <workItem from="1729715585437" duration="1230000" />
+      <workItem from="1729952613320" duration="344000" />
     </task>
     <servers />
   </component>

@@ -7,6 +7,7 @@ public class Display {
     private float ppi;
     private String model;
 
+    // Constructor
     public Display(int width, int height, float ppi, String model) {
         this.width = width;
         this.height = height;
@@ -14,20 +15,51 @@ public class Display {
         this.model = model;
     }
 
+    // Getters and Setters
+    public int getWidth() {
+        return width;
+    }
+
+    public void setWidth(int width) {
+        this.width = width;
+    }
+
+    public int getHeight() {
+        return height;
+    }
+
+    public void setHeight(int height) {
+        this.height = height;
+    }
+
+    public float getPpi() {
+        return ppi;
+    }
+
+    public void setPpi(float ppi) {
+        this.ppi = ppi;
+    }
+
+    public String getModel() {
+        return model;
+    }
+
+    public void setModel(String model) {
+        this.model = model;
+    }
+
+    // Methods for comparison
     public void compareSize(Display m) {
         int Area = this.width * this.height;
         int Area2 = m.width * m.height;
 
         if (Area > Area2) {
-            System.out.println(this.model + " is larger than" + m.model);
+            System.out.println(this.model + " is larger than " + m.model);
+        } else if (Area < Area2) {
+            System.out.println(this.model + " is smaller than " + m.model);
+        } else {
+            System.out.println("Displays have equal size");
         }
-        else if (Area < Area2) {
-            System.out.println(this.model + " is smaller than" + m.model);
-        }
-        else {
-            System.out.println(" Displays have equal size");
-        }
-        System.out.println();
     }
 
     public void compareSharpness(Display m) {
@@ -38,12 +70,10 @@ public class Display {
         } else {
             System.out.println(this.model + " and " + m.model + " have the same sharpness.");
         }
-        System.out.println();
     }
 
     public void compareWithMonitor(Display m) {
         compareSize(m);
         compareSharpness(m);
-        System.out.println();
     }
 }

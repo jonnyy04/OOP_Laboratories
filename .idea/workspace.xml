@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03aee130-0006-4d41-851b-2ecea6de5872" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/LAB_2/src/LAB_2/Task_1/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LAB_2/src/LAB_2/Task_1/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_1/src/Task_2/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_1/src/Task_2/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_1/src/Task_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_1/src/Task_2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_1/src/Task_2/test2" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_1/src/Task_2/test2" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,35 +44,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_1.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_2.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task_3.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;oop-intermediate-tasks&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ionvo/OneDrive/Desktop/OOP_Laboratories&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LAB_2.Task_1.Main.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Task_1.Main.executor": "Run",
+    "Application.Task_2.Main.executor": "Run",
+    "Application.Task_3.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "545304fd",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ionvo/OneDrive/Desktop/OOP_Laboratories",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ionvo\OneDrive\Desktop\OOP_Laboratories" />
       <recent name="C:\Users\ionvo\OneDrive\Desktop\OOP_Laboratories\LAB_0" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task_3.Main">
+  <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="first_package.Main" />
       <module name="java-classifcation" />
@@ -128,9 +129,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task_1.Main" />
         <item itemvalue="Application.Task_3.Main" />
         <item itemvalue="Application.Task_2.Main" />
-        <item itemvalue="Application.Task_1.Main" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -156,6 +157,7 @@
       <workItem from="1730030796641" duration="3932000" />
       <workItem from="1730066084600" duration="2837000" />
       <workItem from="1730105856379" duration="1263000" />
+      <workItem from="1730580362624" duration="4490000" />
     </task>
     <servers />
   </component>
@@ -169,6 +171,11 @@
           <url>file://$PROJECT_DIR$/LAB_1/src/Task_1/Display.java</url>
           <line>75</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/LAB_2/src/LAB_2/Task_1/PumpkinSpiceLatte.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

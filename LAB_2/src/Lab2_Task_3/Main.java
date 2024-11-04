@@ -1,4 +1,4 @@
-package LAB_2.Task_2;
+package Lab2_Task_3;
 
 public class Main {
     public static void main(String[] args) {
@@ -8,11 +8,11 @@ public class Main {
         PumpkinSpiceLatte cup4  = new PumpkinSpiceLatte(Intensity.STRONG, 100, 50);
         SyrupCappuccino cup5 = new SyrupCappuccino(Intensity.LIGHT, 120, SyrupType.CARAMEL);
 
-        cup1.PrintDetails();
-        cup2.PrintDetails();
-        cup3.PrintDetails();
-        cup4.PrintDetails();
-        cup5.PrintDetails();
+        cup1.makeCoffee();
+        cup2.makeAmericano();
+        cup3.makeCappuccino();
+        cup4.makePumpkinSpiceLatte();
+        cup5.makeSyrupCappuccino();
 
     }
 }

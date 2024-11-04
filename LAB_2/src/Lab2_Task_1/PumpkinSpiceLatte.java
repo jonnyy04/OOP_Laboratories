@@ -1,4 +1,4 @@
-package LAB_2.Task_2;
+package Lab2_Task_1;
 
 public class PumpkinSpiceLatte extends Cappuccino {
     private int mgOfPumpkinSpice;
@@ -19,12 +19,6 @@ public class PumpkinSpiceLatte extends Cappuccino {
 
     public String getName() {
         return name;
-    }
-
-    @Override
-    public void PrintDetails(){
-        super.PrintDetails();
-        System.out.println("mgOfPumpkinSpice: " + mgOfPumpkinSpice);
     }
 }
 

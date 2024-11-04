@@ -1,4 +1,4 @@
-package LAB_2.Task_1;
+package Lab2_Task_1;
 
 public class Americano extends Coffee {
 

@@ -1,6 +1,7 @@
-package LAB_2.Task_1;
+package Lab2_Task_2;
 
-class Cappuccino extends Coffee{
+
+class Cappuccino extends Coffee {
 
     private int mlOfMilk;
     private final String name = "Cappuccino";
@@ -22,4 +23,11 @@ class Cappuccino extends Coffee{
     public String getName(){
         return name;
     }
+
+    @Override
+    public void PrintDetails() {
+        super.PrintDetails();
+        System.out.println("mlOfMilk: " + mlOfMilk);
+    }
+
 }

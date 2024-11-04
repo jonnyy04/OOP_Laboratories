@@ -1,4 +1,4 @@
-package LAB_2.Task_1;
+package Lab2_Task_3;
 
 public class Coffee {
      private Intensity coffeeIntensity;
@@ -7,6 +7,7 @@ public class Coffee {
      Coffee(Intensity coffeeIntensity) {
          this.coffeeIntensity = coffeeIntensity;
      }
+
      public void setCoffeeIntensity(Intensity coffeeIntensity) {
          this.coffeeIntensity = coffeeIntensity;
      }
@@ -17,6 +18,18 @@ public class Coffee {
 
     public String getName() {
         return name;
+    }
+
+    public void PrintDetails(){
+         System.out.println("\nName: " + getName());
+         System.out.println("Coffee Intensity: " + coffeeIntensity);
+    }
+
+    public Coffee makeCoffee() {
+        System.out.println("\nMaking " + name);
+        System.out.println("Intensity set to " + getCoffeeIntensity());
+
+        return this;
     }
 }
 

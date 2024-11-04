@@ -6,6 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="03aee130-0006-4d41-851b-2ecea6de5872" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_2/src/LAB_2/Task_1/Americano.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_1/Americano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_2/src/LAB_2/Task_1/Cappuccino.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_1/Cappuccino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_2/src/LAB_2/Task_1/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_1/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_2/src/LAB_2/Task_1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_2/src/LAB_2/Task_1/PumpkinSpiceLatte.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_1/PumpkinSpiceLatte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_2/src/LAB_2/Task_1/SyrupCappuccino.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_1/SyrupCappuccino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_2/src/LAB_2/Task_2/Americano.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_2/Americano.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_2/src/LAB_2/Task_2/Cappuccino.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_2/Cappuccino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_2/src/LAB_2/Task_2/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_2/Coffee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_2/src/LAB_2/Task_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_2/src/LAB_2/Task_2/PumpkinSpiceLatte.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_2/PumpkinSpiceLatte.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_2/src/LAB_2/Task_2/SyrupCappuccino.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_2/SyrupCappuccino.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +61,9 @@
   "keyToString": {
     "Application.LAB_2.Task_1.Main.executor": "Run",
     "Application.LAB_2.Task_2.Main.executor": "Run",
+    "Application.Lab2_Task_1.Main.executor": "Run",
+    "Application.Lab2_Task_2.Main.executor": "Run",
+    "Application.Lab2_Task_3.Main.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.Task_1.Main.executor": "Run",
     "Application.Task_2.Main.executor": "Run",
@@ -57,7 +72,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "oop-advanced-tasks",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/ionvo/OneDrive/Desktop/OOP_Laboratories/LAB_2/src/LAB_2/Task_2",
+    "last_opened_file_path": "C:/Users/ionvo/OneDrive/Desktop/OOP_Laboratories/LAB_2/src/Lab2_Task_3",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -72,6 +87,8 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ionvo\OneDrive\Desktop\OOP_Laboratories\LAB_2\src\Lab2_Task_3" />
+      <recent name="C:\Users\ionvo\OneDrive\Desktop\OOP_Laboratories\LAB_2\src" />
       <recent name="C:\Users\ionvo\OneDrive\Desktop\OOP_Laboratories\LAB_2\src\LAB_2\Task_2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -79,6 +96,7 @@
       <recent name="C:\Users\ionvo\OneDrive\Desktop\OOP_Laboratories\LAB_0" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lab2_Task_3" />
       <recent name="LAB_2.Task_2" />
     </key>
   </component>
@@ -137,8 +155,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task_1.Main" />
         <item itemvalue="Application.Task_3.Main" />
+        <item itemvalue="Application.Task_1.Main" />
         <item itemvalue="Application.Task_2.Main" />
         <item itemvalue="Application.Main" />
       </list>
@@ -165,7 +183,10 @@
       <workItem from="1730030796641" duration="3932000" />
       <workItem from="1730066084600" duration="2837000" />
       <workItem from="1730105856379" duration="1263000" />
-      <workItem from="1730580362624" duration="6614000" />
+      <workItem from="1730580362624" duration="7900000" />
+      <workItem from="1730712908059" duration="424000" />
+      <workItem from="1730713354497" duration="35000" />
+      <workItem from="1730715658095" duration="5118000" />
     </task>
     <servers />
   </component>
@@ -181,7 +202,7 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/LAB_2/src/LAB_2/Task_1/PumpkinSpiceLatte.java</url>
+          <url>file://$PROJECT_DIR$/LAB_2/src/Lab2_Task_1/PumpkinSpiceLatte.java</url>
           <line>2</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>

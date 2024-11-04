@@ -1,4 +1,4 @@
-package LAB_2.Task_2;
+package Lab2_Task_3;
 
 public class SyrupCappuccino extends Cappuccino {
     private SyrupType syrup;
@@ -25,5 +25,13 @@ public class SyrupCappuccino extends Cappuccino {
     public void PrintDetails(){
         super.PrintDetails();
         System.out.println("Syrup: " + syrup);
+    }
+
+    public final SyrupCappuccino makeSyrupCappuccino() {
+        System.out.println("\nMaking " + getName());
+        System.out.println("Intensity set to " + getCoffeeIntensity());
+        System.out.println("Adding " + getMlOfMilk() + " mls of milk");
+        System.out.println("Adding " + syrup + " syrup");
+        return this;
     }
 }

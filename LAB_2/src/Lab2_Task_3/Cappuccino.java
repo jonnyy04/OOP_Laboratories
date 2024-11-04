@@ -1,5 +1,4 @@
-package LAB_2.Task_2;
-
+package Lab2_Task_3;
 
 class Cappuccino extends Coffee {
 
@@ -29,4 +28,11 @@ class Cappuccino extends Coffee {
         super.PrintDetails();
         System.out.println("mlOfMilk: " + mlOfMilk);
     }
+    public final Cappuccino makeCappuccino() {
+        System.out.println("\nMaking " + getName());
+        System.out.println("Intensity set to " + getCoffeeIntensity());
+        System.out.println("Adding " + getMlOfMilk() + " mls of milk");
+        return this;
+    }
+
 }

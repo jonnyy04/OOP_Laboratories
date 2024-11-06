@@ -123,7 +123,7 @@ public class Barista {
         System.out.println("Order summary:");
 
         for (Coffee coffee : orderList) {
-            coffee.PrintDetails();
+            coffee.printDetails();
             System.out.println("------");
         }
 

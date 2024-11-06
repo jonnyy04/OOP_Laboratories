@@ -20,16 +20,14 @@ public class Coffee {
         return name;
     }
 
-    public void PrintDetails(){
+    public void printDetails(){
          System.out.println("\nName: " + getName());
          System.out.println("Coffee Intensity: " + coffeeIntensity);
     }
 
-    public Coffee makeCoffee() {
-        System.out.println("\nMaking " + name);
+    public void makeCoffee() {
+        System.out.println("\nMaking " + getName());
         System.out.println("Intensity set to " + getCoffeeIntensity());
-
-        return this;
     }
 }
 

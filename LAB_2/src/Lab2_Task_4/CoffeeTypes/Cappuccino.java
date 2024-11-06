@@ -24,13 +24,13 @@ public class Cappuccino extends Coffee {
     }
 
     @Override
-    public void PrintDetails() {
-        super.PrintDetails();
+    public void printDetails() {
+        super.printDetails();
         System.out.println("mlOfMilk: " + mlOfMilk);
     }
+
     public final Cappuccino makeCappuccino() {
-        System.out.println("\nMaking " + getName());
-        System.out.println("Intensity set to " + getCoffeeIntensity());
+        super.makeCoffee();
         System.out.println("Adding " + getMlOfMilk() + " mls of milk");
         return this;
     }

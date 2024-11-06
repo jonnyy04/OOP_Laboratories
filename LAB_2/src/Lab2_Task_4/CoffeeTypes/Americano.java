@@ -24,14 +24,13 @@ public class Americano extends Coffee {
     }
 
     @Override
-    public void PrintDetails() {
-        super.PrintDetails();
+    public void printDetails() {
+        super.printDetails();
         System.out.println("Ml of water: " + mlOfWater);
     }
 
     public final Americano makeAmericano() {
-        System.out.println("\nMaking " + getName());
-        System.out.println("Intensity set to " + getCoffeeIntensity());
+        super.makeCoffee();
         System.out.println("Adding " + mlOfWater + " mls of water");
         return this;
     }

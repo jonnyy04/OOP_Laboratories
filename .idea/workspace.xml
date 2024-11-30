@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03aee130-0006-4d41-851b-2ecea6de5872" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -96,7 +95,7 @@
       <recent name="LAB_2.Task_2" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.QueueTests">
+  <component name="RunManager" selected="Application.TASK_2.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="first_package.Main" />
       <module name="java-classifcation" />
@@ -123,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_1.Main" />
+    <configuration name="TASK_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TASK_2.Main" />
       <module name="java-classifcation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_1.*" />
+          <option name="PATTERN" value="TASK_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TASK_2.Main" />
         <item itemvalue="JUnit.QueueTests" />
         <item itemvalue="Application.TASK_1.Main" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task_3.Main" />
-        <item itemvalue="Application.Task_1.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +202,7 @@
       <workItem from="1730744598349" duration="1746000" />
       <workItem from="1730873342259" duration="96000" />
       <workItem from="1730892593319" duration="1414000" />
-      <workItem from="1732982036038" duration="1337000" />
+      <workItem from="1732982036038" duration="2411000" />
     </task>
     <servers />
   </component>

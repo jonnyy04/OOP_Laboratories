@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="03aee130-0006-4d41-851b-2ecea6de5872" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/Barista.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/Barista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/Americano.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/Americano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/Cappuccino.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/Cappuccino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/PumpkinSpiceLatte.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/PumpkinSpiceLatte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/SyrupCappuccino.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/SyrupCappuccino.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +15,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Python Script" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -60,13 +56,16 @@
     "Application.Lab2_Task_2.Main.executor": "Run",
     "Application.Lab2_Task_3.Main.executor": "Run",
     "Application.Lab2_Task_4.Main.executor": "Run",
+    "Application.Main (1).executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.TASK_1.Main.executor": "Run",
     "Application.Task_1.Main.executor": "Run",
     "Application.Task_2.Main.executor": "Run",
     "Application.Task_3.Main.executor": "Run",
+    "Python.__init__.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "oop-advanced-tasks",
+    "git-widget-placeholder": "oop-master-tasks",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ionvo/OneDrive/Desktop/OOP_Laboratories",
     "node.js.detected.package.eslint": "true",
@@ -74,10 +73,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -98,7 +97,7 @@
       <recent name="LAB_2.Task_2" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TASK_1.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="first_package.Main" />
       <module name="java-classifcation" />
@@ -112,25 +111,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TASK_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TASK_1.Main" />
+      <module name="java-classifcation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task_1.Main" />
       <module name="java-classifcation" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Task_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_2.Main" />
-      <module name="java-classifcation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Task_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +144,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="java-classifcation" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LAB_3/python" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LAB_3/python/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TASK_1.Main" />
+        <item itemvalue="Python.__init__" />
         <item itemvalue="Application.Main" />
         <item itemvalue="Application.Task_3.Main" />
         <item itemvalue="Application.Task_1.Main" />
-        <item itemvalue="Application.Task_2.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -189,6 +206,13 @@
       <workItem from="1730744598349" duration="1746000" />
       <workItem from="1730873342259" duration="96000" />
       <workItem from="1730892593319" duration="1414000" />
+      <workItem from="1730894085274" duration="668000" />
+      <workItem from="1731326989963" duration="38000" />
+      <workItem from="1731327275813" duration="475000" />
+      <workItem from="1731931473315" duration="341000" />
+      <workItem from="1732825272844" duration="3730000" />
+      <workItem from="1732829406565" duration="1277000" />
+      <workItem from="1732963374613" duration="896000" />
     </task>
     <servers />
   </component>
@@ -210,5 +234,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OOP_Laboratories$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1732825792188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAB_3/python" />
   </component>
 </project>

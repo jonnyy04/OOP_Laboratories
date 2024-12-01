@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="03aee130-0006-4d41-851b-2ecea6de5872" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_3/src/TASK_1/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_3/src/TASK_1/ArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_3/src/TASK_2_3/CarStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_3/src/TASK_2_3/CarStation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_3/src/TASK_2_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_3/src/TASK_2_3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_3/test/TASK_3/CarStationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_3/test/TASK_3/CarStationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -66,6 +62,7 @@
     "JUnit.CarStationTests.executor": "Run",
     "JUnit.CarStationTests.testAddCarToQueue.executor": "Run",
     "JUnit.QueueTests.executor": "Run",
+    "JUnit.SemaphoreTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "oop-master-tasks",
@@ -100,20 +97,7 @@
       <recent name="LAB_2.Task_2" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.CarStationTests">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_package.Main" />
-      <module name="java-classifcation" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="first_package.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.SemaphoreTest">
     <configuration name="TASK_2_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TASK_2_3.Main" />
       <module name="java-classifcation" />
@@ -173,13 +157,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SemaphoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-classifcation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SemaphoreTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SemaphoreTest" />
         <item itemvalue="JUnit.CarStationTests" />
         <item itemvalue="JUnit.CarStationTests.testAddCarToQueue" />
         <item itemvalue="Application.TASK_2_3.Main" />
         <item itemvalue="JUnit.QueueTests" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>

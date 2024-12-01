@@ -6,12 +6,19 @@
   <component name="ChangeListManager">
     <list default="true" id="03aee130-0006-4d41-851b-2ecea6de5872" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/Barista.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/Barista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/Americano.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/Americano.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/Cappuccino.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/Cappuccino.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/PumpkinSpiceLatte.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/PumpkinSpiceLatte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/SyrupCappuccino.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_2/src/Lab2_Task_4/CoffeeTypes/SyrupCappuccino.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_3/Generator/queue/Car1.json" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_3/Generator/queue/Car1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_3/Generator/queue/Car2.json" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_3/Generator/queue/Car2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_3/Generator/queue/Car3.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_3/Generator/queue/Car4.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_3/Generator/queue/Car5.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_3/Generator/queue/Car6.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_3/Generator/queue/Car7.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_3/Generator/queue/Car8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_3/Generator/queue/Car9.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_3/src/TASK_2_3/CarStation.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_3/src/TASK_2_3/CarStation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_3/src/TASK_2_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_3/src/TASK_2_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LAB_3/src/TASK_2_3/Semaphore.java" beforeDir="false" afterPath="$PROJECT_DIR$/LAB_3/src/TASK_2_3/Semaphore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,8 +28,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -61,12 +68,17 @@
     "Application.Lab2_Task_3.Main.executor": "Run",
     "Application.Lab2_Task_4.Main.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.TASK_2_3.Main.executor": "Run",
     "Application.Task_1.Main.executor": "Run",
     "Application.Task_2.Main.executor": "Run",
     "Application.Task_3.Main.executor": "Run",
+    "JUnit.CarStationTests.executor": "Run",
+    "JUnit.CarStationTests.testAddCarToQueue.executor": "Run",
+    "JUnit.QueueTests.executor": "Run",
+    "JUnit.SemaphoreTest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "oop-advanced-tasks",
+    "git-widget-placeholder": "oop-master-tasks",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/ionvo/OneDrive/Desktop/OOP_Laboratories",
     "node.js.detected.package.eslint": "true",
@@ -98,13 +110,13 @@
       <recent name="LAB_2.Task_2" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="first_package.Main" />
+  <component name="RunManager" selected="Application.TASK_2_3.Main">
+    <configuration name="TASK_2_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TASK_2_3.Main" />
       <module name="java-classifcation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="first_package.*" />
+          <option name="PATTERN" value="TASK_2_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,51 +124,68 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_1.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_1.Main" />
+    <configuration name="CarStationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-classifcation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_1.*" />
+          <option name="PATTERN" value="TASK_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="TASK_3" />
+      <option name="MAIN_CLASS_NAME" value="TASK_3.CarStationTests" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_2.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_2.Main" />
+    <configuration name="CarStationTests.testAddCarToQueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-classifcation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_2.*" />
+          <option name="PATTERN" value="TASK_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="TASK_3" />
+      <option name="MAIN_CLASS_NAME" value="TASK_3.CarStationTests" />
+      <option name="METHOD_NAME" value="testAddCarToQueue" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_3.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task_3.Main" />
+    <configuration name="QueueTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java-classifcation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Task_3.*" />
+          <option name="PATTERN" value="TASK_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="TASK_1" />
+      <option name="MAIN_CLASS_NAME" value="TASK_1.QueueTests" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SemaphoreTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="java-classifcation" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SemaphoreTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Task_3.Main" />
-        <item itemvalue="Application.Task_1.Main" />
-        <item itemvalue="Application.Task_2.Main" />
+        <item itemvalue="Application.TASK_2_3.Main" />
+        <item itemvalue="JUnit.SemaphoreTest" />
+        <item itemvalue="JUnit.CarStationTests" />
+        <item itemvalue="JUnit.CarStationTests.testAddCarToQueue" />
+        <item itemvalue="JUnit.QueueTests" />
       </list>
     </recent_temporary>
   </component>

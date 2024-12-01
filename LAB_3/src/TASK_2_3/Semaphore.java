@@ -6,6 +6,8 @@ public class Semaphore {
     Refuelable electricStation = new ElectricStation();
     Dineable robotsDining = new RobotDinner();
     Refuelable gasStation = new GasStation();
+    private static int people = 0;
+    private static int robots = 0;
 
     // Stațiile care primesc mașinile
     private CarStation gas_people_Station = new CarStation(peopleDining, gasStation);
@@ -18,16 +20,28 @@ public class Semaphore {
         if (car.getType().equals("GAS") && car.getPassengers().equals("PEOPLE")) {
             gas_people_Station.addCar(car); // Stație pe benzină pentru oameni
             gas_people_Station.serveCars();
+            people++;
         } else if (car.getType().equals("GAS") && car.getPassengers().equals("ROBOTS")) {
             gas_robots_Station.addCar(car); // Stație pe benzină pentru roboți
             gas_robots_Station.serveCars();
+            robots++;
         } else if (car.getType().equals("ELECTRIC") && car.getPassengers().equals("PEOPLE")) {
             electric_people_Station.addCar(car); // Stație electrică pentru oameni
             electric_people_Station.serveCars();
+            people++;
         } else if (car.getType().equals("ELECTRIC") && car.getPassengers().equals("ROBOTS")) {
             electric_robots_Station.addCar(car); // Stație electrică pentru roboți
             electric_robots_Station.serveCars();
+            robots++;
         }
+    }
+
+    public static int getPeople(){
+        return people;
+    }
+
+    public static int getRobots(){
+        return robots;
     }
 }
 

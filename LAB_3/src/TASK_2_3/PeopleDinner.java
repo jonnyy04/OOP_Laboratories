@@ -1,4 +1,4 @@
-package TASK_2;
+package TASK_2_3;
 
 public class PeopleDinner implements Dineable {
     private static int peopleServed = 0;

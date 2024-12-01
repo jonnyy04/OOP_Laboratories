@@ -1,4 +1,4 @@
-package TASK_2;
+package TASK_2_3;
 
 public class ElectricStation implements Refuelable {
     private static int electricCarsServed = 0;

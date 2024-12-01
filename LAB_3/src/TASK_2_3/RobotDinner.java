@@ -1,4 +1,4 @@
-package TASK_2;
+package TASK_2_3;
 
 public class RobotDinner implements Dineable {
     private static int robotsServed = 0;

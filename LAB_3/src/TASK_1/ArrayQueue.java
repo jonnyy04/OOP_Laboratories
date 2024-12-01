@@ -36,7 +36,6 @@ public class ArrayQueue<T> implements IQueue<T> {
 
     @Override
     public T peek() {
-        return size == 0 ? null : (T) queue[0];
     }
 
     @Override

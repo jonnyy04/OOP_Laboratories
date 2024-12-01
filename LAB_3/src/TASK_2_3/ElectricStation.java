@@ -12,5 +12,10 @@ public class ElectricStation implements Refuelable {
     public static int getElectricCarsServed() {
         return electricCarsServed;
     }
+
+    // Resetare pentru test
+    public static void resetElectricCarsServed() {
+        electricCarsServed = 0;
+    }
 }
 

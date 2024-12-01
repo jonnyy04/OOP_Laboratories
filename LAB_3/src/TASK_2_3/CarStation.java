@@ -33,5 +33,9 @@ public class CarStation {
         }
         System.out.println("All cars have been served.");
     }
+
+    public LinkedListQueue<Car> getQueue() {
+        return queue;
+    }
 }
 

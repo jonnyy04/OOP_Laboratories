@@ -12,5 +12,9 @@ public class GasStation implements Refuelable {
     public static int getGasCarsServed() {
         return gasCarsServed;
     }
+
+    public static void resetGasCarsServed() {
+        gasCarsServed = 0;
+    }
 }
 

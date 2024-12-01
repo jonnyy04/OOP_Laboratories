@@ -11,7 +11,7 @@ public class Main {
 
         // Adăugăm mașini
         station.addCar(new Car(1, "ELECTRIC", "PEOPLE", true, 20));
-        station.addCar(new Car(2, "ELECTRIC", "PEOPLE", false, 15));
+        station.addCar(new Car(2, "GAS", "PEOPLE", false, 15));
 
         // Procesăm mașinile
         station.serveCars();

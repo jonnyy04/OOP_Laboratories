@@ -12,5 +12,9 @@ public class RobotDinner implements Dineable {
     public static int getRobotsServed() {
         return robotsServed;
     }
+
+    public static void resetRobotsServed() {
+        robotsServed = 0;
+    }
 }
 

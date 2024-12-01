@@ -13,6 +13,10 @@ public class PeopleDinner implements Dineable {
         return peopleServed;
     }
 
+    public static void resetPeopleServed() {
+        peopleServed = 0;
+    }
+
 
 }
 

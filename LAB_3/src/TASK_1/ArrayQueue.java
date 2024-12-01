@@ -36,7 +36,14 @@ public class ArrayQueue<T> implements IQueue<T> {
 
     @Override
     public T peek() {
+        if (isEmpty()) {
+            throw new IllegalStateException("Queue is empty!");
+        }
+        @SuppressWarnings("unchecked")
+        T data = (T) queue[front];
+        return data;
     }
+
 
     @Override
     public boolean isEmpty() {
